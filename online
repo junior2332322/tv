@@ -27,14 +27,7 @@ http://lista.iptvagora.com:25461/9932307473/307473/6
 http://lista.iptvagora.com:25461/9932307473/307473/7
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET (H265)²" tvg-logo="https://3.bp.blogspot.com/-IKw48vRj0ng/XxL4tVLxx-I/AAAAAAAAGrk/3PBqZhVTiR0vVDocG7B7vfrUtxbdcRV-QCK4BGAYYCw/s1600/Animal%2BPlanet.png" group-title="Canais | Documentarios",ANIMAL PLANET (H265)²
 http://lista.iptvagora.com:25461/9932307473/307473/8
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL FHD¹" tvg-logo="http://origemdasfontes.ga:80/images/960b7bc58c667f1c2f64b448d470f197.png" group-title="Canais | Documentarios",DISCOVERY CHANNEL FHD¹
-http://lista.iptvagora.com:25461/9932307473/307473/9
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL HD¹" tvg-logo="http://origemdasfontes.ga:80/images/960b7bc58c667f1c2f64b448d470f197.png" group-title="Canais | Documentarios",DISCOVERY CHANNEL HD¹
-http://lista.iptvagora.com:25461/9932307473/307473/10
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="http://origemdasfontes.ga:80/images/960b7bc58c667f1c2f64b448d470f197.png" group-title="Canais | Documentarios",DISCOVERY CHANNEL SD¹
-http://lista.iptvagora.com:25461/9932307473/307473/11
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL FHD²" tvg-logo="https://i.imgur.com/0bGJmTJ.png" group-title="Canais | Documentarios",DISCOVERY CHANNEL FHD²
-http://lista.iptvagora.com:25461/9932307473/307473/12
+
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="https://i.imgur.com/0bGJmTJ.png" group-title="Canais | Documentarios",DISCOVERY CHANNEL HD²
 http://lista.iptvagora.com:25461/9932307473/307473/13
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="https://i.imgur.com/0bGJmTJ.png" group-title="Canais | Documentarios",DISCOVERY CHANNEL SD²
